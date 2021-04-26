@@ -4,6 +4,10 @@ Last updated on 04/25/2021
 
 Project is located at: https://jgreenos.github.io/portfolio
 
+Screenshots:
+https://github.com/JGreenOS/portfolio/blob/main/home%20page%20screenshot.png
+https://github.com/JGreenOS/portfolio/blob/main/portfolio%20screenshot.png
+
 As a digital badging pioneer, I advocate for badge earners to display their achievements proudly via social media, email footers and more.  However, I am curious on how these badges would be displayed in a responsive website portfolio as I think it would get more "traffic" for the recipients showcasing their work for future employers.
 
 This project is a simple 3 page site, with an index/home page, a portfolio page showcasing how digital badges can be displayed in a responsive card format and a contact me page. It has been updated on 4/25 to include additional projects from my Bootcamp experience and some formatting changes. 
